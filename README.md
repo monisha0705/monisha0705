@@ -11,7 +11,7 @@
      
  😄 Pronouns: she/her
  
- ⚡ Fun fact: MY Life!
+ 🤝 Marketing Member @eleet SRM-RMP
  
 
 
