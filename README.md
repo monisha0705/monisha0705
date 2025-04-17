@@ -4,14 +4,14 @@
 
  🌱 I’m currently learning JDBC,SQL,API'S
  
-💞️ I’m looking to collaborate on DSA
+🤝 I’m looking to collaborate on DSA
 
  📫 How to reach me
      mail-monishasuresh2006@gmail.com
      
  😄 Pronouns: she/her
  
- 🤝 Marketing Member @eleet SRM-RMP
+ ⚡ Marketing Member @eleet SRM-RMP
  
 
 
