@@ -1,17 +1,110 @@
-👋 Hi, I’m Monisha G
+```md
+<h1 align="center">Hi 👋, I'm Monisha G</h1>
+<h3 align="center">Backend Developer | Cybersecurity Enthusiast</h3>
 
- 👀 I’m interested in Development,DSA & Cybersecurity
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=monisha0705&label=Profile%20views&color=000000&style=flat" alt="profile views" />
+</p>
 
- 🌱 I’m currently learning JDBC,SQL,API'S
- 
-🤝 I’m looking to collaborate on DSA
+---
 
- 📫 How to reach me
-     mail-monishasuresh2006@gmail.com
-     
- 😄 Pronouns: she/her
- 
- ⚡ Marketing Member @eleet SRM-RMP
- 
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Computer Science student specializing in Cybersecurity
+- 💻 Interested in Backend Development and Cybersecurity
+- 🌱 Currently learning Spring Boot, DSA, Backend Development & Cybersecurity
+- ☕ Skilled in Java and backend fundamentals
+- 🗄️ Exploring Databases, APIs and secure application development
+- 🚀 Passionate about improving problem-solving and development skills
+- 🔐 Cybersecurity beginner exploring ethical hacking and security concepts
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/monisha0705" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/monisha-g-494a55295/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://leetcode.com/u/Monisha0705/" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40" />
+</a>
+</p>
+
+📫 Reach me at: **monishasuresh2006@gmail.com**
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c" />
+</p>
+
+### Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=monisha0705&show_icons=true&theme=default&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monisha0705&layout=compact&theme=default&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=monisha0705&theme=default&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Monisha0705?theme=light&font=Nunito&ext=contest"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Spring Boot
+- Backend Development
+- APIs
+- Data Structures & Algorithms
+- Cybersecurity
+
+---
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/monisha0705">Monisha G</a>
+</p>
+```
+
 
 
