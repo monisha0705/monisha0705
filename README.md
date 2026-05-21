@@ -44,41 +44,12 @@ Backend Developer | Cybersecurity Enthusiast
 
 ---
 
-# 💻 Tech Stack
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c" />
-</p>
-
-## Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring" />
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-## Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
-</p>
 
 ---
 
 # 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=monisha0705&show_icons=true&theme=default&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monisha0705&layout=compact&theme=default&hide_border=true"/>
+e"/>
 
 </p>
 
@@ -94,13 +65,7 @@ Backend Developer | Cybersecurity Enthusiast
 
 ---
 
-# 🧠 LeetCode Stats
 
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Monisha0705?theme=light&font=Nunito&ext=contest"/>
-
-</p>
 
 ---
 
