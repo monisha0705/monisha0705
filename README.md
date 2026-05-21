@@ -74,12 +74,5 @@ Backend Developer | Cybersecurity Enthusiast
 - Data Structures & Algorithms
 - Cybersecurity
 
----
 
 
-
----
-
-<p align="center">
-⭐ From <a href="https://github.com/monisha0705">Monisha G</a>
-</p>
