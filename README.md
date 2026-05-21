@@ -48,10 +48,7 @@ Backend Developer | Cybersecurity Enthusiast
 
 ---
 
-# 📊 GitHub Stats
-e"/>
 
-</p>
 
 ---
 
