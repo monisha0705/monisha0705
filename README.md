@@ -1,9 +1,11 @@
-```md
 <h1 align="center">Hi 👋, I'm Monisha G</h1>
-<h3 align="center">Backend Developer | Cybersecurity Enthusiast</h3>
+
+<h3 align="center">
+Backend Developer | Cybersecurity Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=monisha0705&label=Profile%20views&color=000000&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=monisha0705&label=Profile%20Views&color=000000&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -23,88 +25,99 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/monisha0705" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+
+<a href="https://github.com/monisha0705" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/monisha-g-494a55295/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://www.linkedin.com/in/monisha-g-494a55295/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://leetcode.com/u/Monisha0705/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40" />
+<a href="https://leetcode.com/u/Monisha0705/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
 </a>
+
 </p>
 
-📫 Reach me at: **monishasuresh2006@gmail.com**
+📫 Email: **monishasuresh2006@gmail.com**
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+## Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
-### Backend Development
+## Backend Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
-### Database
+## Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools & Technologies
+## Tools & Technologies
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=monisha0705&show_icons=true&theme=default&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monisha0705&layout=compact&theme=default&hide_border=true" height="170"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=monisha0705&show_icons=true&theme=default&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monisha0705&layout=compact&theme=default&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=monisha0705&theme=default&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🧠 LeetCode Stats
+# 🧠 LeetCode Stats
 
 <p align="center">
+
 <img src="https://leetcard.jacoblin.cool/Monisha0705?theme=light&font=Nunito&ext=contest"/>
+
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Spring Boot
 - Backend Development
-- APIs
+- REST APIs
 - Data Structures & Algorithms
 - Cybersecurity
 
 ---
+
+
+
 ---
 
 <p align="center">
 ⭐ From <a href="https://github.com/monisha0705">Monisha G</a>
 </p>
-```
-
-
-
