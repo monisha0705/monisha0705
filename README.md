@@ -34,10 +34,6 @@ Backend Developer | Cybersecurity Enthusiast
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://leetcode.com/u/Monisha0705/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
-</a>
-
 </p>
 
 📫 Email: **monishasuresh2006@gmail.com**
