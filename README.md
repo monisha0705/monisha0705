@@ -34,7 +34,7 @@ Backend Developer | Cybersecurity Enthusiast
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="monishasuresh2006@gmail.com" target="_blank">
+<a href="mail to:monishasuresh2006@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
