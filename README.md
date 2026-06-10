@@ -33,8 +33,7 @@ Backend Developer | Cybersecurity Enthusiast
 <a href="https://www.linkedin.com/in/monisha-g-494a55295/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-
-<a href="mail to:monishasuresh2006@gmail.com" target="_blank">
+<a href="mailto:monishasuresh2006@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
